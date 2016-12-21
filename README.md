@@ -1,1 +1,1 @@
-# ruby-challenges
+# challenges-for-ashish
